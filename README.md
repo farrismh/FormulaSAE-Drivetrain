@@ -1,0 +1,3 @@
+About TMFR: “Toronto Metropolitan Formula Racing (TMFR), formerly Ryerson Formula Racing, is an engineering-led student team that designs and manufactures a formula-style racing car to compete in Formula Society of Automotive Engineers (FSAE) events around the world.”
+
+Design Collaboration: The team collaborates with each other on their system updates on the engineering software such as GrabCAD Workbench. GrabCAD Workbench is used by companies to support the design of physical products of all sorts - from basic screws to jet engine brackets at GE, to robotics that zap germs. According to the company site, GrabCAD was founded with the goal of bringing together all the tools engineers need to manage and share CAD files into one easy to use platform.
